@@ -1,0 +1,4 @@
+test Text
+This is a git tracking example
+Added content for version control
+Tracking changes in the repository
