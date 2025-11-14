@@ -4,4 +4,8 @@ Added content for version control
 Tracking changes in the repositorycl
 
 
+<<<<<<< HEAD
 Test New Commit 45
+=======
+Test New Commit 4
+>>>>>>> branch4
